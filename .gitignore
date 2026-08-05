@@ -1,3 +1,9 @@
 .claude/
 .DS_Store
 Thumbs.db
+
+# Imagens-fonte originais (o site usa as versoes tratadas em assets/)
+/Dr. PauloSantos.png
+/Dra. BeatrizCarla.png
+/DraGeovanaMorais.png
+/logoreissantos.png
